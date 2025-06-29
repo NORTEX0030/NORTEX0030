@@ -5,11 +5,13 @@ A passionate **DevOps Engineer** and **AWS enthusiast** with a strong foundation
 ## 🚀 Tech Stack
 
 **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)  
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab)  
 
 **Web & Programming**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ## 🔧 Projects
 
